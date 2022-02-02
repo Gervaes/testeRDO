@@ -1,0 +1,30 @@
+
+input {
+    padding: 12px 20px;
+    margin: 8px 10px 8px 0;
+    box-sizing: border-box;
+}
+
+th {
+    padding: 15px;
+    border-bottom: 1px solid #ddd;
+}
+
+h1 {
+    padding-top: 50px;
+}
+
+body {
+    background-color: #222;
+    color: #ddd;
+    font-family: monospace;
+}
+
+button {
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color: #444;
+    color: #ddd;
+    font-weight: bold;
+}
